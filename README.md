@@ -1,4 +1,4 @@
-GTA V Map Viewer
+GTA V Map Viewer (iOS 12.0+)
 =====
 ## NOTES
 DLC is not supported.
@@ -30,3 +30,4 @@ A lot of memory leaks!
 ## THANKS TO
 * Dexyfex https://github.com/dexyfex/CodeWalker
 * gta-toolkit https://github.com/Neodymium146/gta-toolkit
+* citizenfx/fivem https://github.com/citizenfx/fivem
