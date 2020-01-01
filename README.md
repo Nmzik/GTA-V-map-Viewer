@@ -23,6 +23,9 @@ You also need to copy the following files to your iPhone/iPad via iTunes File Sh
 ## NOTE:
   While there is no “check” inside app to have all RPF files copied, I **DO** recommend to have every single RPF file on your device otherwise in some cases “player” will fall through the world infinitely…
 
+## WHAT TO EXPECT
+A lot of bugs!
+A lot of memory leaks!
 
 ## THANKS TO
 * Dexyfex https://github.com/dexyfex/CodeWalker
